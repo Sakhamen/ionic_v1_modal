@@ -1,0 +1,13 @@
+{
+  "name": "ionic_v1_blank_modal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
